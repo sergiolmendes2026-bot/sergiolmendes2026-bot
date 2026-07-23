@@ -1,6 +1,5 @@
 ## Olá meu é Sergio Luiz 👋
 
-## Olá, eu sou o Sergio Luiz 👋
 
 ## Hard Skills
 
