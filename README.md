@@ -48,6 +48,18 @@
   <img src="https://img.shields.io/badge/Trabalho_em_Equipe-D35400?style=for-the-badge" alt="Trabalho em Equipe">
 </p>
 
+### 🤖 Linguagens e Tecnologias
+
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="LangChain" height="30" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
+  <img align="center" alt="Streamlit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg">
+  <img align="center" alt="NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Groq" height="30" width="40" src="https://avatars.githubusercontent.com/u/140224147?s=200&v=4">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
 ## Social Media
 
 <p>
