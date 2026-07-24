@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
 </p>
 
-## Meus Projetos
+## Meus Projetos 
 
 <p>
   <a href="https://github.com/sergiolmendes2026-bot/Agente-de-IA-LaryMB.V1">
