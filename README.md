@@ -52,7 +52,7 @@
 ## Social Media
 
 <p>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sergio-luiz-brito-785bb33b4/">
+  <a href="https://https://www.linkedin.com/in/sergio-luiz-brito-785bb33b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/sergiolmendes2026-bot">
