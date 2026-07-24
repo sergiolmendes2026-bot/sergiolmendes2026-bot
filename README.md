@@ -52,10 +52,10 @@
 ## Social Media
 
 <p>
-  <a href="https://linkedin.com/in/SEU-USUARIO">
+  <a href="https://linkedin.com/in/SEU-USUARIO-DO-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/sergiolmendes2026-bot">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p> 
+</p>
