@@ -70,3 +70,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+<a href="https://api.whatsapp.com/send/?phone=5511994376755&text=Ol%C3%A1%2C+preciso+de+ajuda+com+o+Agente+de+IA.&type=phone_number&app_absent=0">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
