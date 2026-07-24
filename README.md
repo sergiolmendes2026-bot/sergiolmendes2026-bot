@@ -4,13 +4,22 @@
 ## Hard Skills
 
 <p>
+  <img src="https://img.shields.io/badge/Suporte_Técnico-00599C?style=for-the-badge&logo=windows&logoColor=white" alt="Suporte Técnico">
+  <img src="https://img.shields.io/badge/Help_Desk-2E8B57?style=for-the-badge&logo=zendesk&logoColor=white" alt="Help Desk">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Microsoft 365">
+  <img src="https://img.shields.io/badge/Redes_TCP/IP-4682B4?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes TCP/IP">
+  <img src="https://img.shields.io/badge/Active_Directory-002B36?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/AI_Agents-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/IA-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="IA">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
 </p>
 
-## Meus Projetos  
+## Meus Projetos
 
 <p>
   <a href="https://github.com/sergiolmendes2026-bot/Agente-de-IA-LaryMB.V1">
@@ -30,14 +39,22 @@
 ## Soft Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Problem_Solving-D35400?style=for-the-badge" alt="Problem Solving">
-  <img src="https://img.shields.io/badge/Proactive-2980B9?style=for-the-badge" alt="Proactive">
-  <img src="https://img.shields.io/badge/Analytical-C0392B?style=for-the-badge" alt="Analytical">
+  <img src="https://img.shields.io/badge/Comunicação_Eficaz-D35400?style=for-the-badge" alt="Comunicação Eficaz">
+  <img src="https://img.shields.io/badge/Atendimento_ao_Cliente-2980B9?style=for-the-badge" alt="Atendimento ao Cliente">
+  <img src="https://img.shields.io/badge/Empatia-16A085?style=for-the-badge" alt="Empatia">
+  <img src="https://img.shields.io/badge/Proatividade-8E44AD?style=for-the-badge" alt="Proatividade">
+  <img src="https://img.shields.io/badge/Organização-C0392B?style=for-the-badge" alt="Organização">
+  <img src="https://img.shields.io/badge/Resolução_de_Problemas-27AE60?style=for-the-badge" alt="Resolução de Problemas">
+  <img src="https://img.shields.io/badge/Pensamento_Analítico-2C3E50?style=for-the-badge" alt="Pensamento Analítico">
+  <img src="https://img.shields.io/badge/Trabalho_em_Equipe-D35400?style=for-the-badge" alt="Trabalho em Equipe">
 </p>
 
 ## Social Media
 
 <p>
+  <a href="https://linkedin.com/in/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://github.com/sergiolmendes2026-bot">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
