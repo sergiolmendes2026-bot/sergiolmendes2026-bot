@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
 </p>
 
-## Meus Projetos 
+## Meus Projetos  
 
 <p>
   <a href="https://github.com/sergiolmendes2026-bot/Agente-de-IA-LaryMB.V1">
