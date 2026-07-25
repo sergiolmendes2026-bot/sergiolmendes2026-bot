@@ -54,16 +54,16 @@ Suporte em temas de conectividade. Inteligência artificial. Análise de dados. 
 ## Meus Projetos 
 
 <p>
-<a href="https://github.com/sergiolmendcs2026-bot/Agente-de-IA-LaryMB.V1">
+<a href="https://github.com/sergiolmendes2026-bot/Agente-de-IA-LaryMB.V1">
 <img src="https://img.shields.io/badge/Agente_de_IA_LaryMB.V1-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Agente de IA LaryMB.V1">
 </a>
-<a href="https://github.com/sergiolmendcs2026-bot/Assistente-Juridico-LM">
+<a href="https://github.com/sergiolmendes2026-bot/Assistente-Jur-dico-LM">
 <img src="https://img.shields.io/badge/Assistente_Juridico_LM-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Assistente Jurídico LM">
 </a>
-<a href="https://github.com/sergiolmendcs2026-bot/App-Para-Dashboard-Interativo">
+<a href="https://github.com/sergiolmendes2026-bot/App-Para-Dashboard-Interativo">
 <img src="https://img.shields.io/badge/App_Dashboard_Interativo-D35400?style=for-the-badge&logo=github&logoColor=white" alt="App Para Dashboard Interativo">
 </a>
-<a href="https://github.com/sergiolmendcs2026-bot/Multi-Agentes-de-IA-Para-Planejamento-de-Viagens">
+<a href="https://github.com/sergiolmendes2026-bot/Multi-Agentes-de-IA-Para-Planejamento-de-Viagens">
 <img src="https://img.shields.io/badge/Multi_Agentes_Viagens-8E44AD?style=for-the-badge&logo=github&logoColor=white" alt="Multi Agentes de IA Para Planejamento de Viagens">
 </a>
 </p>
