@@ -24,6 +24,33 @@ Suporte em temas de conectividade. Inteligência artificial. Análise de dados. 
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
 </p>
 
+
+### 📚 Cursos e Certificações
+
+<a href="LINK_DO_REPOSITORIO_1" target="_blank">
+  <img src="https://img.shields.io/badge/Big_Data_Analytics-1f425f?style=for-the-badge&logo=databricks&logoColor=white" alt="Big Data Analytics">
+</a>
+<a href="LINK_DO_REPOSITORIO_2" target="_blank">
+  <img src="https://img.shields.io/badge/Cloud_Fundamentos-38ef7d?style=for-the-badge&logo=cloud&logoColor=black" alt="Cloud Fundamentos">
+</a>
+<a href="LINK_DO_REPOSITORIO_3" target="_blank">
+  <img src="https://img.shields.io/badge/Engenharia_de_Dados-ff5722?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Fundamentos de Engenharia de Dados">
+</a>
+<a href="LINK_DO_REPOSITORIO_4" target="_blank">
+  <img src="https://img.shields.io/badge/Python_Básico_a_IA-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python para IA">
+</a>
+<a href="LINK_DO_REPOSITORIO_5" target="_blank">
+  <img src="https://img.shields.io/badge/Python_Data_Science-orange?style=for-the-badge&logo=anaconda&logoColor=white" alt="Python Data Science e ML">
+</a>
+<a href="LINK_DO_REPOSITORIO_6" target="_blank">
+  <img src="https://img.shields.io/badge/Data_Science_&_IA-9c27b0?style=for-the-badge&logo=openai&logoColor=white" alt="Data Science e IA">
+</a>
+<a href="LINK_DO_REPOSITORIO_7" target="_blank">
+  <img src="https://img.shields.io/badge/Power_BI_Business-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Business Intelligence">
+</a>
+
+
+
 ## Meus Projetos 
 
 <p>
