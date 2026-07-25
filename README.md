@@ -1,6 +1,12 @@
 ## Olá meu nome é Sergio Luiz 👋
 
 
+Profissional de Suporte Técnico com experiência em atendimento a usuários, diagnóstico e resolução de problemas em software, hardware e redes. 
+Focado em oferecer soluções rápidas e eficazes, garantindo a continuidade das operações e a satisfação do usuário. 
+Habilidade em atendimento ao cliente, comunicação clara e empática. Resolução de incidentes em sistemas. Análise de logs, monitorações e especificações técnicas para identificação de causas. 
+Suporte em temas de conectividade. Inteligência artificial. Análise de dados. Automação.
+
+
 ## Hard Skills
 
 <p>
