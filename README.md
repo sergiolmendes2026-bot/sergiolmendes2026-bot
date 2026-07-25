@@ -25,7 +25,7 @@ Suporte em temas de conectividade. Inteligência artificial. Análise de dados. 
 </p>
 
 
-### 📚 Cursos e Certificações
+### 📚 Cursos e Certificações 
 
 <a href="LINK_DO_REPOSITORIO_1" target="_blank">
   <img src="https://img.shields.io/badge/Big_Data_Analytics-1f425f?style=for-the-badge&logo=databricks&logoColor=white" alt="Big Data Analytics">
